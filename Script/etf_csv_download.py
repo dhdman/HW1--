@@ -35,17 +35,3 @@ for symbol in df['Symbol']:
 # In[ ]:
 
 
-i = 0
-for symbol in df ['Symbol'] :
-    if symbol in passlist :
-        a = df.drop ([i] , inplace = True)
-        print (a)
-    i += 1
-df.reset_index(inplace = True)
-
-for i in range (len (df ['Symbol'])) :
-    print (df ['Symbol'] [i] in passlist)
-
-df.drop(['index'],inplace=True,axis=1)
-
-df.to_csv('ETF_removefist7')
