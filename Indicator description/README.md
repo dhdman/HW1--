@@ -14,3 +14,12 @@ a.Acceptance domain的內容:
 微分是將變化度越降越低(高次方降到低次)，而積分反其道而行，把變化的效果擴大。
 
 3.依據何種財務理論
+
+# 巴菲特指標
+
+簡介
+* https://statementdog.com/explain/BuffettIdx.html
+
+* https://www.macromicro.me/collections/34/us-stock-relative/406/us-buffet-index-gspc
+* https://wilshire.com/indexcalculator/index.html
+
