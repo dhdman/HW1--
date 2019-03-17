@@ -1,4 +1,4 @@
-# [進度表](https://docs.google.com/spreadsheets/d/e/2PACX-1vQcKCGPuZqbmiXOrpkkxfx364vEgpuej5v-Td94xIXXuK7rguBYTcMlXjgL5zvquecvM_Kt3U21TPAW/pubhtml)
+# [課程規劃表](https://docs.google.com/spreadsheets/d/e/2PACX-1vQcKCGPuZqbmiXOrpkkxfx364vEgpuej5v-Td94xIXXuK7rguBYTcMlXjgL5zvquecvM_Kt3U21TPAW/pubhtml)
 
 # 作業說明:
 1. 請各組在所指定的ETF資料中，先篩選出於2015年年底既已存在的ETF(可從EXCEL檔中的W欄看到起始時間)，並以此子集合重新建立一個EXCEL檔。
