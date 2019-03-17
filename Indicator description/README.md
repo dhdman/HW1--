@@ -2,17 +2,19 @@
 
 ## Higher Order omega
 Higher Order omega(N-order Omega)
-1.由來和發明人:
+
+1. 由來和發明人:
 Sharpe ratio雖然簡單易懂，但較適用於資產為常態分配型態，更無法描述投資者除了mean、variance(亦即一階、二階的性質)的偏好，如:skewness、kurtosis就沒被考量進去。學者逐漸考量更多資產分布的高階性質作為衡量好壞的依據。
 指標的發明人：曾郁仁教授及其他台陸教授。
 
-2.依據何種財務理論
+2. 依據何種財務理論
 財務理論、想法依據:
-Omega--Keating and Shadwick (2002)
-以目標報酬的資產來評價--Bernardo and Ledoit (2000)
-acceptance domain--Hart (2011)
-Nth-degree stochastic dominance (NSD)--Caballé and Pomansky (1996)
-almost Nth-degree stochastic dominance (ANSD) -- Tzeng et al. (2013)
+* Omega--Keating and Shadwick (2002)
+* 以目標報酬的資產來評價--Bernardo and Ledoit (2000)
+* acceptance domain--Hart (2011)
+* Nth-degree stochastic dominance (NSD)--Caballé and Pomansky (1996)
+* almost Nth-degree stochastic dominance (ANSD) -- Tzeng et al. (2013)
+
 a.Acceptance domain:
 有兩個分配F、G，對特定的決策者群，若F優於G表示:只要拒絕F的情形下，鐵定會拒絕G。
 理論探討決策者限於:風險趨避者。
@@ -26,10 +28,10 @@ d.ANSD:
 此指標以Hart (2011)角度出發，修改了比較兩資產的拒絕情形，轉為單一資產與簡單的常數報酬的目標資產去做比較。根據Bernardo and Ledoit (2000)和Tzeng et al. (2013)的論文觀點，在考慮非理性投資者的偏好下，很難找出衡量好壞的共同準則。因此指標排除非理智投資者的偏好習性去建立新的Acceptance domain。
 
 
-3.內涵、如何計算
+3. 內涵、如何計算
 微分是將變化度越降越低(高次方降到低次)，而積分反其道而行，把變化的效果擴大。
 
-4.有哪些機構使用:
+4. 有哪些機構使用:
 由於指標還很新，目前找不到有機構使用
 
 
