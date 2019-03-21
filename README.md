@@ -44,8 +44,8 @@
 # 作業流程
 * 你選擇用甚麼樣的套件來做網路爬蟲?為什麼要用這個套件
 	* selenium: 可以自動爬取資料。
-    	* request:
-    	* beautifulsoup:
+    * request:
+    * beautifulsoup:
  * 請用流程圖的方式告訴我們你是怎麼抓到你的目標資料，流程圖的畫法不拘，主要易懂就好:  
    [流程圖](https://www.draw.io/#G16q2AWJ3wPwgKP_qlCzlIt5zXhwKm_pv-)
  * 完整的範例程式
