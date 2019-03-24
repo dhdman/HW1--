@@ -60,7 +60,7 @@
 	5. 在使用selenium時: 若找不到自己執行得路徑可以透過 (Katalon Recoder) 來輔助執行
 	    此適用於Chrome and Firfox 套件
 	6. 在使用個個檔案讀取時 : 請將路徑改成網路github_dataset或者將Data自行下載至自己路徑，並且確實指定完整路徑，否則容易發生找不到路徑的狀況
-	    (../這格語法是指在此Python(Juptyer) check point下的檔案位置，通常會在user中) 
+	    (../這是相對路徑語法，若自行下載此打法是指在此Python(Juptyer) check point下的檔案位置，通常會在user中) 
 
 
 
