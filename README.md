@@ -2,6 +2,8 @@
 
 # [與教授說明與討論時間安排](https://docs.google.com/spreadsheets/d/1ihrqutmwi0KU2XMlVvTUxCk4JECk-no_hmo4Wt6y90c/edit#gid=0)
 
+# [3/29 報告投影片](https://docs.google.com/presentation/d/16k3px3vWiaz_67Pimrf_udpE5m_4Rp_1yku-x03M8Zw/edit?usp=sharing)
+
 # 作業說明:
 1. 請各組在所指定的ETF資料中，先篩選出於2015年年底既已存在的ETF(可從EXCEL檔中的W欄看到起始時間)，並以此子集合重新建立一個EXCEL檔。
 
