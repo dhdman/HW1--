@@ -4,3 +4,4 @@
  * 我們選取台指50作為標的
 
 # 需要的網址
+[台指50的組成--元大網站](http://www.yuantaetfs.com/#/FundWeights/1066)
