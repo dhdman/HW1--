@@ -2,7 +2,7 @@
 * 老師、助教好，比較可惜的是，我們最後算出來績效沒有理想的出色，還請老師花時間觀看!
 
 
-
+# [呈現影片](https://youtu.be/k1xCsXKxDl0)
 
 
 # [課程規劃表](https://docs.google.com/spreadsheets/d/e/2PACX-1vQcKCGPuZqbmiXOrpkkxfx364vEgpuej5v-Td94xIXXuK7rguBYTcMlXjgL5zvquecvM_Kt3U21TPAW/pubhtml)
