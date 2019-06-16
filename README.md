@@ -1,4 +1,4 @@
-# [最後報告----投影片](https://https://docs.google.com/presentation/d/1E30N3JwL_HmQP0KQ1nJvbJ3jOcb1uVT339aHBsS6BcM/edit?usp=sharing)
+# [最後報告----投影片](https://docs.google.com/presentation/d/1E30N3JwL_HmQP0KQ1nJvbJ3jOcb1uVT339aHBsS6BcM/edit#slide=id.p1)
 * 老師、助教好，比較可惜的是，我們最後算出來績效沒有理想的出色，還請老師花時間觀看!
 
 
