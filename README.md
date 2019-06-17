@@ -1,9 +1,10 @@
 # [最後報告----投影片](https://docs.google.com/presentation/d/1E30N3JwL_HmQP0KQ1nJvbJ3jOcb1uVT339aHBsS6BcM/edit#slide=id.p1)
 * 老師、助教好，比較可惜的是，我們最後算出來績效沒有理想的出色，還請老師花時間觀看!
 
-
 # [呈現影片](https://youtu.be/k1xCsXKxDl0)
 
+# [界面展示---網頁](https://alexislintw.github.io/fintech_text_mining_and_machine_learning/final/index.htm)
+* 可點選下拉式選單，選擇月份，查看當月的投資組合(Top5群的RiskinessR和配置權重)
 
 # [課程規劃表](https://docs.google.com/spreadsheets/d/e/2PACX-1vQcKCGPuZqbmiXOrpkkxfx364vEgpuej5v-Td94xIXXuK7rguBYTcMlXjgL5zvquecvM_Kt3U21TPAW/pubhtml)
 
